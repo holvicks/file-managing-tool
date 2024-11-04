@@ -10,7 +10,7 @@ Run `npm run dev` to start the development server.
 - Jsx
 - Tailwind css for styling
 - React Icons
-
+- Redux (state management)
 
 
 
